@@ -1,2 +1,2 @@
-# codigos-c
+# Códigos na linguagem C
 Durante o terceiro ano do ensino médio integrado com o técnico em informática, eu estava estudando intensivamente os conhecimentos de lógica de programação durante o primeiro bimestre. Para dominar bem este assunto na época da escola, meu professor passava vários exercício na linguagem C. Mesmo sendo uma linguagem antiga, esta linguagem me ajudou a dominar bastante a minha lógica. Neste repositório em específico, eu irei colocar a maioria dos códigos que realizei no decorrer daquele período
