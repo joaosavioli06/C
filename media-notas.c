@@ -13,6 +13,8 @@ int main() {
    
    calc = (nota1 + nota2) / 2;
    
+   printf("\nSua média final foi %.2f\n",calc);
+ 
    if (calc >= 7){
        printf("\nVocê foi aprovado!");
    }
